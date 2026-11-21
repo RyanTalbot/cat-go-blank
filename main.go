@@ -21,7 +21,7 @@ func writeToStdout(data []byte) error {
 }
 
 func cat() error {
-    return nil
+    return nil * nil
 }
 
 func main() {
