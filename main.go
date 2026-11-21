@@ -5,7 +5,7 @@ import (
 )
 
 func parseArgs() []string {
-    return nil
+    return n
 }
 
 func readFromFile(filename string) ([]byte, error) {
